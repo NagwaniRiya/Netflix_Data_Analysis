@@ -16,10 +16,10 @@ This project delves into Netflix’s movie and TV show data using Python (Pandas
 ---
 
 ##  Project Structure  
-Netflix-Data-Analysis/
+Netflix_Data_Analysis /
 ├── dataset/ 
 ├── src/ 
-│ └── analysis.ipynb
+│ └── mat_proj.ipynb
 ├── result/ 
 ├── README.md 
 └── requirements.txt

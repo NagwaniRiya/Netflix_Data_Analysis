@@ -31,7 +31,7 @@ Netflix-Data-Analysis/
 1. Clone the repository:  
    ```bash
    
-   git clone https://github.com/aary20/Netflix-Data-Analysis.git
+   git clone https://github.com/NagwaniRiya/Netflix_Data_Analysis.git
 
 2. Navigate into the directory and install dependencies:
    ```bash
@@ -41,7 +41,7 @@ Netflix-Data-Analysis/
 3. Launch the analysis notebook:
    ```bash
    
-   jupyter notebook src/analysis.ipynb
+   jupyter notebook src/mat_proj.ipynb
 
 ##  Analysis Highlights
 

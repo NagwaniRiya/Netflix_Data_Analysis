@@ -36,7 +36,7 @@ Netflix_Data_Analysis /
 2. Navigate into the directory and install dependencies:
    ```bash
    
-   cd Netflix-Data-Analysis
+   cd Netflix_Data_Analysis
    pip install -r requirements.txt
 3. Launch the analysis notebook:
    ```bash
